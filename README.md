@@ -27,10 +27,10 @@ $$
 $$
 
 $$
-\mathbf{q}=\begin{pmatrix}\rho\ \rho u \E\end{pmatrix},
+\mathbf{q}=\begin{pmatrix}\rho\ \\ \rho u \\ \E\end{pmatrix},
 \qquad
 \mathbf{F}(\mathbf{q})=
-\begin{pmatrix}\rho u\\rho u^2+p\u(E+p)\end{pmatrix},
+\begin{pmatrix}\rho u\\ \rho u^2+p \\ u(E+p)\end{pmatrix},
 \qquad
 p=(\gamma-1)\left(E-\frac{\rho u^2}{2}\right).
 $$
