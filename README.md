@@ -534,9 +534,7 @@ plt.show()
 
 ![Blast wave — Lax-Wendroff](images/numerical_part1/blast-lax-wendroff.png)
 
-Runtime warnings during this run: `invalid value encountered in scalar add`; `invalid value encountered in scalar subtract`; `overflow encountered in scalar multiply`.
 
-The computed state contains non-finite values; the plot is reproduced as generated and does not represent a valid physical solution.
 
 <!-- Notebook cell 26: markdown -->
 
